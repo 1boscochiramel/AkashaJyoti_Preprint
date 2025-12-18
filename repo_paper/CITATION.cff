@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite this repository."
+title: "Vertical Aerosol Confinement and UV Attenuation in the UTLS"
+version: "1.0.0"
+authors:
+  - family-names: Radhakrishnan
+    given-names: Archana
+    affiliation: Independent Researcher, India
+  - family-names: J.
+    given-names: Mani
+    affiliation: Indian Institute of Remote Sensing (IIRS), ISRO, India
+  - family-names: Bosco
+    given-names: Bosco
+    affiliation: Independent Researcher, India
+doi: "<ZENODO_DOI>"
+date-released: "2025-12-19"
+keywords:
+  - high-altitude balloon
+  - aerosol optical depth
+  - ultraviolet proxy
+  - reproducibility
