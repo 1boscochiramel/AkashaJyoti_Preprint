@@ -1,0 +1,13 @@
+wall_sets:
+  A_conductive:
+    wall_layers:
+      - {name: "steel", k_W_mK: 15.0, thickness_m: 0.004}
+    h_int_W_m2K: 200
+    h_ext_W_m2K: 12
+
+  B_insulating:
+    wall_layers:
+      - {name: "steel", k_W_mK: 15.0, thickness_m: 0.004}
+      - {name: "insulation", k_W_mK: 0.2, thickness_m: 0.010}
+    h_int_W_m2K: 200
+    h_ext_W_m2K: 12
